@@ -4,11 +4,24 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2024/11/18/LaTeX%E6%B5%8B%E8%AF%95/"/>
-    <url>/2024/11/18/LaTeX%E6%B5%8B%E8%AF%95/</url>
+    <title>test</title>
+    <link href="/2024/11/18/test-1/"/>
+    <url>/2024/11/18/test-1/</url>
     
-    <content type="html"><![CDATA[<p>$$<br>\sum_{i &#x3D; 1} ^ n a_i<br>$$</p>]]></content>
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2024/11/18/test/"/>
+    <url>/2024/11/18/test/</url>
+    
+    <content type="html"><![CDATA[<p>$$<br>\sum_{i&#x3D;1}^n a_i<br>$$</p>]]></content>
     
     
     
